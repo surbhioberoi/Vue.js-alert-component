@@ -6,3 +6,31 @@ body {
 
 }
 
+.Alert {
+    background: #666;
+    border: solid 1px #fff;
+    padding: 1em;
+    color: #fff;
+    margin-left: 38%;
+    margin-right: 38%;
+    letter-spacing: 1px;
+}
+
+button {
+    background: #fff;
+    color: #444;
+    border: 0;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.success-alert {
+    background: teal;
+    border: #fff;
+}
+
+.error-alert {
+    background: #ff6363;
+    border: #fff;
+
+}
